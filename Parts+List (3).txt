@@ -1,0 +1,25 @@
+Parts List
+A Scrolling Digital Clock and Weather Station
+theronsarticles@gmail.com
+
+ESP32 microcontroller
+IC socket for ESP32
+Printed Circuit Board or breadboard for point to point wiring
+32 x 8 LED Matrix Display (2)
+DS3231 RTC Breakout Board
+BME280 Breakout Board
+5 volt 1 amp wall wart type power supply
+Mating socket for wall wart power supply
+4 pin header jumper, 20 cm. long, to bring BME280 outside case
+5 or 6 pin header jumper, 20 cm. long, for ESP32 to LED display
+1,000uF capacitor, 6.3 volt
+0.1uF capacitor (4)
+Header pins, straight and right angle
+Header pin jumpers
+Various #4 machine screws, lock washers and nuts, #4 standoffs 
+Hookup wire, solder
+3D Printed case, or custom made case
+RCML-0516 Breakout Board (Optional)
+PAM-8403 Audio Amplifier Board (Optional)
+8 ohm 2 watt mini speaker (Optional)
+1,000 ohm, ¼ watt resistor (2) (optional) 
